@@ -1,0 +1,53 @@
+/* .wrapper{
+    width: 100%;
+    height: auto;
+}
+.item{
+    background: white;;
+    height: 50vh;
+    /* width: 190px; */
+    /* box-shadow: 5px 50px 5px rgba(0, 0, 0, 0.404); */ 
+   
+/* } */
+/* .p-block{
+    padding-top: 2rem;
+    
+ 
+} */
+ .container{
+    /* border: 2px solid black; */
+    padding-left: 2rem;
+    /* background-image: url('../images/re.png'); */
+  
+}
+.addo1{
+    width: 100%;
+    height: 400px;
+    background-color: blue;
+}
+.addo2{
+    width: 100%;
+    height: 550px;
+    background-color:yellow;
+}
+.inner{
+    overflow: hidden;
+}
+.inner img{
+    transition: all 1.5s ease;
+}
+.inner:hover img{
+    transform: scale(1.5);
+}
+.container .blog{
+    box-shadow: 6px 15px 10px rgba(0, 0, 0, 0.295);
+    height: 370px;
+}
+.card-body:hover{
+    background-color: rgb(245, 170, 30);
+    color: white;
+}
+.card-body{
+    transition: all .5s ease;
+} 
+
